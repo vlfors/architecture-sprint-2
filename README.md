@@ -33,3 +33,10 @@ curl --silent http://ifconfig.me
 ## Доступные эндпоинты
 
 Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
+
+# Реализация задач
+### Шардирование [диаграмма](task1_mongo-sharding.drawio) [mongo-sharding](mongo-sharding)
+### Репликация [диаграмма](task2_mongo-sharding-repl.drawio) [mongo-sharding-repl](mongo-sharding-repl)
+### Кэширование [диаграмма](task3_sharding-repl-cache.drawio) [sharding-repl-cache](sharding-repl-cache)
+### Service Discovery и балансировка с API Gateway [диаграмма](task4_api_gateway.drawio)
+### CDN [диаграмма](task5_api_gateway_cdn.drawio)
